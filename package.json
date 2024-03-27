@@ -1,11 +1,11 @@
 {
-  "name": "@guilhermeerosoft/eslint-config",
+  "name": "@gotdc/eslint-config",
   "version": "1.0.0",
   "private": false,
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/GuilhermeEroSoft/eslint-config.git"
+    "url": "git+https://github.com/GuilhermeEroSoft/eslint-config.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
