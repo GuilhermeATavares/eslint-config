@@ -1,11 +1,11 @@
 {
-  "name": "@lucasbernardosn/eslint-config",
+  "name": "@guilhermeerosoft/eslint-config",
   "version": "1.0.5",
   "private": false,
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "GuilhermeEroSoft/eslint-config.git"
+    "url": "guilhermeerosoft/eslint-config.git"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
@@ -35,9 +35,9 @@
     "prettier": "^3.2.4"
   },
   "bugs": {
-    "url": "https://github.com/GuilhermeEroSoft/eslint-config/issues"
+    "url": "https://github.com/guilhermeerosoft/eslint-config/issues"
   },
-  "homepage": "https://github.com/GuilhermeEroSoft/eslint-config#readme",
+  "homepage": "https://github.com/guilhermeerosoft/eslint-config#readme",
   "keywords": [],
   "author": "",
   "description": ""
