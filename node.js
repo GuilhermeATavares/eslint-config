@@ -14,15 +14,20 @@ module.exports = {
     'prettier/prettier': [
       'error',
       {
-        endOfLine: "auto",
+        endOfLine: 'auto',
         printWidth: 80,
         tabWidth: 2,
         singleQuote: true,
         trailingComma: 'all',
         arrowParens: 'always',
-        semi: false,
+        semi: true,
       },
     ],
+    'no-param-reassign': ['error', { 'props': false }],
+    'prefer-destructuring': ['error', {
+      'array': false,
+      'object': false
+    }]
   },
   settings: {
     'import/parsers': {
